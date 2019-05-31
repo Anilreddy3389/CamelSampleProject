@@ -1,0 +1,2 @@
+# CamelSampleProject
+Camel + Springboot confiuration
